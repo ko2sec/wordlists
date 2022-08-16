@@ -7,6 +7,7 @@ app
 apps
 atlassian
 audit
+avservice
 aws
 backup
 bitbucket
@@ -38,6 +39,7 @@ git
 gitlab
 green
 greylog
+hangfire
 hub
 iad
 iast
@@ -56,6 +58,9 @@ maps
 mobile
 now
 onboarding
+onprem
+onpremise
+onpremises
 openapi
 pay
 payment
