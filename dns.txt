@@ -47,6 +47,8 @@ import
 internal
 issue
 jira
+jenkins
+jenkins2
 k8s
 kafka
 kubernetes
@@ -82,7 +84,9 @@ residential
 revamp
 risk
 s3
+sandbox
 sast
+sbx
 secure
 service
 servicenow
