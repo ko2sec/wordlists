@@ -68,6 +68,8 @@ pay
 payment
 paypal
 pci
+pentest
+pentesting
 poc
 preprod
 processor
