@@ -1,5 +1,8 @@
+2020
 2021
 2022
+2023
+2034
 accertify
 amazon
 api
@@ -9,6 +12,7 @@ atlassian
 audit
 avservice
 aws
+azure
 backup
 bitbucket
 broker
