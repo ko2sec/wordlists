@@ -100,6 +100,7 @@ servicenow
 shipment
 shipped
 shipping
+sit
 splunk
 sso
 staging
